@@ -12,6 +12,6 @@ public class Main {
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         obj.add(gameplay);
         obj.setLocationRelativeTo(null);
-        System.out.println("test");
+        System.out.println("testtest");
     }
 }
